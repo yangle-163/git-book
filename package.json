@@ -1,0 +1,23 @@
+{
+  "name": "git-book",
+  "version": "1.0.0",
+  "description": "介绍几款游戏",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangle-163/git-book.git"
+  },
+  "keywords": [],
+  "author": "yangle-163",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangle-163/git-book/issues"
+  },
+  "homepage": "https://github.com/yangle-163/git-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
